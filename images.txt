@@ -6,3 +6,4 @@ nacos/nacos-server:v2.2.1
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 apache/superset:4.0.1
+--platform=linux/arm64 golang:1.22.5
