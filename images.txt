@@ -6,6 +6,7 @@ jaegertracing/all-in-one:latest
 nacos/nacos-server:v2.2.1
 node:latest
 mcr.microsoft.com/dotnet/samples
+python:3.10-slim-bullseye
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 apache/superset:4.0.1
