@@ -7,6 +7,8 @@ nacos/nacos-server:v2.2.1
 node:latest
 mcr.microsoft.com/dotnet/samples
 python:3.10-slim-bullseye
+#其他
+hummingbot/hummingbot:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 apache/superset:4.0.1
