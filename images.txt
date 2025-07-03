@@ -12,6 +12,7 @@ bitnami/etcd:latest
 getmeili/meilisearch:latest
 apache/apisix-dashboard:3.0.1-alpine
 evildecay/etcdkeeper
+golang:1.23
 canal/canal-server
 canal/canal-server:v1.1.6
 #支持指定架构
