@@ -8,6 +8,7 @@ node:latest
 python:3.9
 python:3.13
 python:3.8.2
+docker.n8n.io/n8nio/n8n
 mcr.microsoft.com/dotnet/samples
 python:3.10-slim-bullseye
 bitnami/etcd:latest
