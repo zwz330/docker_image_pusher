@@ -1,30 +1,5 @@
 nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-jaegertracing/all-in-one:latest
-nacos/nacos-server:v2.2.1
-node:latest
-python:3.9
-python:3.13
-python:3.8.2
-docker.n8n.io/n8nio/n8n
-mcr.microsoft.com/dotnet/samples
-python:3.10-slim-bullseye
-bitnami/etcd:latest
-getmeili/meilisearch:latest
-apache/apisix-dashboard:3.0.1-alpine
-evildecay/etcdkeeper
-golang:1.23
-fatedier/frps:v0.63.0
-canal/canal-server
-canal/canal-server:v1.1.6
 mysql:5.7
 redis:5
 hanchuanchuan/goinception
 hhyo/archery:v1.13.0
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
---platform=linux/arm64 apache/superset:4.0.1
---platform=linux/arm64 golang:1.22.5
---platform=linux/arm64 golang:1.20
