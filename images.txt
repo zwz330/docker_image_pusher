@@ -19,9 +19,12 @@ golang:1.23
 fatedier/frps:v0.63.0
 canal/canal-server
 canal/canal-server:v1.1.6
+mysql:5.7
+redis:5
+hanchuanchuan/goinception
+hhyo/archery:v1.13.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 apache/superset:4.0.1
 --platform=linux/arm64 golang:1.22.5
 --platform=linux/arm64 golang:1.20
---platform=linux/arm64 golang:1.25.4
