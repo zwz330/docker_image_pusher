@@ -5,3 +5,4 @@ hanchuanchuan/goinception
 hhyo/archery:v1.13.0
 postgres:15-alpine
 ghcr.io/berriai/litellm:main-latest
+python:3.12
