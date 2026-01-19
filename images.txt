@@ -6,3 +6,6 @@ hhyo/archery:v1.13.0
 postgres:15-alpine
 ghcr.io/berriai/litellm:main-latest
 python:3.12
+prom/prometheus:v2.47.1
+grafana/grafana:10.1.5
+prom/alertmanager:v0.27.0
