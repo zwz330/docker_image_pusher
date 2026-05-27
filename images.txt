@@ -9,3 +9,5 @@ python:3.12
 prom/prometheus:v2.47.1
 grafana/grafana:10.1.5
 prom/alertmanager:v0.27.0
+golang:1.21-bookworm
+debian:bookworm-slim
