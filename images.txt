@@ -1,6 +1,7 @@
 nginx
 mysql:5.7
 redis:5
+redis:6-alpine
 hanchuanchuan/goinception
 hhyo/archery:v1.13.0
 postgres:15-alpine
@@ -11,3 +12,4 @@ grafana/grafana:10.1.5
 prom/alertmanager:v0.27.0
 golang:1.21-bookworm
 debian:bookworm-slim
+jumpserver/core:latest
