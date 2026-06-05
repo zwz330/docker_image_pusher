@@ -13,3 +13,4 @@ prom/alertmanager:v0.27.0
 golang:1.21-bookworm
 debian:bookworm-slim
 jumpserver/core:v4.10.17-ce
+jumpserver/jms_all
