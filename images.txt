@@ -14,3 +14,4 @@ golang:1.21-bookworm
 debian:bookworm-slim
 jumpserver/core:v4.10.17-ce
 jumpserver/jms_all
+docker.n8n.io/n8nio/n8n:latest
