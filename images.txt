@@ -1,6 +1,1 @@
-postgres:16-alpine
-redis:7-alpine
-langgenius/dify-web:1.15.0
-langgenius/dify-sandbox:0.2.15
-langgenius/dify-plugin-daemon:0.6.3-local
-minio/minio:RELEASE.2024-09-22T00-33-43Z
+postgres:18
