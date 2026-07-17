@@ -1,1 +1,2 @@
-postgres:18
+golang:1.25-alpine
+golang:1.25
