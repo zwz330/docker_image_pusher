@@ -1,2 +1,1 @@
-golang:1.25-alpine
-golang:1.25
+mouday/domain-admin
