@@ -1,1 +1,1 @@
-mouday/domain-admin
+debian:bookworm-slim
