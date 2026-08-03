@@ -1,1 +1,2 @@
-debian:bookworm-slim
+alpine:3.23
+golang:1.24-alpine
