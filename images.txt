@@ -1,1 +1,1 @@
-node:20-alpine
+adesulae/php8.5.12:latest
