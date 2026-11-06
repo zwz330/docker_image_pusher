@@ -1,1 +1,1 @@
-adesulae/php8.5.12:latest
+php:8.5.12-fpm-bookworm
